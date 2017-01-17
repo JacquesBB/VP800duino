@@ -1,5 +1,5 @@
 /* VP800duino  jacquesBBB 9/1/2017
-Sketch pour      la station de dessoudage Weller avec en plus un affichage OLED/ */
+programme pour la station de dessoudage Weller VP800 avec en plus un affichage OLED I2C/ */
 #include <Arduino.h>
 #include <U8g2lib.h>
 
